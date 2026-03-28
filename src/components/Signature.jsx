@@ -3,7 +3,7 @@ import '../style/signature.css'
 
 export default function Signature() {
   return (
-    <div className='d-flex justify-content-center
+    <div className='d-flex mt-5 justify-content-center
 justify-content-between'>
         <div className="customer">
             <p>Customer Signature with Name </p>

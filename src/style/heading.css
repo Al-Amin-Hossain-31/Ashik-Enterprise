@@ -12,6 +12,11 @@
 .barcode{
     text-align: right;
     width: 100mm;
+    /* height: ; */
     
    
+}
+
+.bar{
+    height: 80px;
 }
