@@ -85,8 +85,8 @@ export default function CustomerDetails(customer) {
        Service Center Address :
       </td>
       <td>
-        Pabna Tower , 1st floor ,
-        Opposite of Bulbul Collage ,
+        Pabna Tower , 1st floor , <br>
+        Opposite of Bulbul Collage , <br>
         Pabna Sadar Pabna
       </td>
       <td>
