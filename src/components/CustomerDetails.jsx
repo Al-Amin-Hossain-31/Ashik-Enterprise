@@ -85,7 +85,9 @@ export default function CustomerDetails(customer) {
        Service Center Address :
       </td>
       <td>
-        2nd floor Muktijoddha
+        Pabna Tower , 1st floor ,
+        Opposite of Bulbul Collage ,
+        Pabna Sadar Pabna
       </td>
       <td>
         Customer Mobile No:
