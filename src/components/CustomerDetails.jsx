@@ -71,13 +71,13 @@ export default function CustomerDetails(customer) {
        Service Center Name :
       </td>
       <td>
-        Z M Enterprise
+        Ashik Enterprise
       </td>
       <td>
         Customer Address:
       </td>
       <td>
-      Pabna ,Rajshahi
+      Natore ,Rajshahi
       </td>
     </tr>
     <tr>
@@ -85,9 +85,8 @@ export default function CustomerDetails(customer) {
        Service Center Address :
       </td>
       <td>
-        Pabna Tower , 1st floor , <br>
-        Opposite of Bulbul Collage , <br>
-        Pabna Sadar Pabna
+        Opposite Masjid Market, <br/>
+          Kanaikhali, Natore
       </td>
       <td>
         Customer Mobile No:
@@ -101,7 +100,7 @@ export default function CustomerDetails(customer) {
        Service Center Contact :
       </td>
       <td>
-      +880-1710767350
+      +880-1730016015
       </td>
       <td>
       E-Mail ID:
