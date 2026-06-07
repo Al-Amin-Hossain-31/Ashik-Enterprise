@@ -11,7 +11,7 @@ export default function CustomerDetails(customer) {
         Company Name :
       </td>
       <td>
-        Z M Enterprise
+        Ashik Enterprise 
       </td>
       <td>
         Jobsheet Order :

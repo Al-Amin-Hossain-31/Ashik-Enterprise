@@ -105,7 +105,7 @@ function App(props) {
       </Form>
       <Modal size='lg' returnFocusAfterClose={focusAfterClose} isOpen={open}>
         <ModalHeader>
-          <h2 className='text-center'>Z.M. Enterprize</h2>
+          <h2 className='text-center'>Ashik Enterprize</h2>
         </ModalHeader>
         <Form onSubmit={submitHandler}>
       
